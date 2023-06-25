@@ -1,5 +1,5 @@
-<![BAngalore Hourse Price Demo](https://github.com/Afy-gitH/Bangalore-Housing-Prices/assets/134000144/9002f499-cf63-4241-9347-630d0b90b8de)
-!DOCTYPE html>
+![BAngalore Hourse Price Demo](https://github.com/Afy-gitH/Bangalore-Housing-Prices/assets/134000144/9002f499-cf63-4241-9347-630d0b90b8de)
+<!DOCTYPE html>
 <html>
 <head>
 </head>
