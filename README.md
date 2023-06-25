@@ -1,7 +1,7 @@
-<!DOCTYPE html>
+<![BAngalore Hourse Price Demo](https://github.com/Afy-gitH/Bangalore-Housing-Prices/assets/134000144/9002f499-cf63-4241-9347-630d0b90b8de)
+!DOCTYPE html>
 <html>
 <head>
-  <title>Regression Model for House Price Prediction in Bangalore</title>
 </head>
 <body>
   <h1>Regression Model for House Price Prediction in Bangalore</h1>
@@ -29,7 +29,7 @@
     <pre><code>pip install -r requirements.txt</code></pre>
     <li>Run the Flask application by executing the following command:</li>
     <pre><code>python app.py</code></pre>
-    <li>Once the Flask server is up and running, open your web browser and navigate to <code>http://localhost:5000</code> to access the web interface.</li>
+    <li>Once the Flask server is up and running, open your web browser and navigate to <code>http://127.0.0.1:5000/</code> to access the web interface.</li>
     <li>Enter the required details, including the location, number of bedrooms, number of bathrooms, number of balconies, and square footage of the house you want to predict the price for.</li>
     <li>Click the "Predict" button, and the model will display the estimated price for the provided inputs.</li>
   </ol>
@@ -41,6 +41,6 @@
   <p>This project is licensed under the <a href="LICENSE">MIT License</a>. Feel free to modify and use the code according to your requirements.</p>
 
   <h2>Acknowledgments</h2>
-  <p>We would like to express our gratitude to the developers and contributors of the open-source libraries used in this project, as well as the creators of the dataset used for training the regression model. Their contributions are invaluable to the success of this project.</p>
+  <p>We would like to express our gratitude to the developers and contributors of the open-source libraries used in this project, as well as the creators of the dataset used for training the regression model. Their contributions are invaluable to the success of this project,Dataset used :https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data.</p>
 </body>
 </html>
